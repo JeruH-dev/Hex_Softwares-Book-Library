@@ -45,7 +45,7 @@ var swiper = new Swiper(".books-slider", {
     loop: true,
     centeredSlides: true,
     autoplay: {
-        delay: 9500,
+        delay: 8000,
         disableOnInteraction: false,
     },
     breakpoints: {
@@ -66,7 +66,7 @@ var swiper = new Swiper(".featured-slider", {
     loop: true,
     centeredSlides: true,
     autoplay: {
-        delay: 9500,
+        delay: 8000,
         disableOnInteraction: false,
     },
     navigation: {
@@ -94,7 +94,7 @@ var swiper = new Swiper(".arrivals-slider", {
     loop: true,
     centeredSlides: true,
     autoplay: {
-        delay: 9500,
+        delay: 8000,
         disableOnInteraction: false,
     },
     breakpoints: {
@@ -116,7 +116,7 @@ var swiper = new Swiper(".reviews-slider", {
     loop: true,
     centeredSlides: true,
     autoplay: {
-        delay: 9500,
+        delay: 8000,
         disableOnInteraction: false,
     },
     breakpoints: {
@@ -138,7 +138,7 @@ var swiper = new Swiper(".blogs-slider", {
     loop: true,
     centeredSlides: true,
     autoplay: {
-        delay: 9500,
+        delay: 8000,
         disableOnInteraction: false,
     },
     breakpoints: {
